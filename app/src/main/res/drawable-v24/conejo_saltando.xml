@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/conejo1"
+        android:layout_width="123sp"
+        android:layout_height="77sp"
+        android:duration="250"/>
+
+    <item android:drawable="@drawable/conejo2"
+        android:layout_width="123sp"
+        android:layout_height="77sp"
+        android:duration="100"/>
+
+    <item android:drawable="@drawable/conejo3"
+        android:layout_width="123sp"
+        android:layout_height="77sp"
+        android:duration="100"/>
+
+    <item android:drawable="@drawable/conejo4"
+        android:layout_width="123sp"
+        android:layout_height="77sp"
+        android:duration="100"/>
+
+    <item android:drawable="@drawable/conejo5"
+        android:layout_width="123sp"
+        android:layout_height="77sp"
+        android:duration="250"/>
+
+</animation-list>

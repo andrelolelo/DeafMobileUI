@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/canguro1"
+        android:layout_width="123dp"
+        android:layout_height="77dp"
+        android:duration="250"/>
+
+    <item android:drawable="@drawable/canguro2"
+        android:layout_width="123dp"
+        android:layout_height="77dp"
+        android:duration="100"/>
+
+    <item android:drawable="@drawable/canguro3"
+        android:layout_width="123dp"
+        android:layout_height="77dp"
+        android:duration="100"/>
+
+
+
+</animation-list>

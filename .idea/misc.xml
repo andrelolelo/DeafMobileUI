@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/drawable-v24/canguro_saltando.xml" value="0.3305" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/drawable-v24/conejo_saltando.xml" value="0.332" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/drawable-v24/custom_button_juegos.xml" value="0.332" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/drawable-v24/sapo_saltando.xml" value="0.332" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/drawable/custom_button_continuar.xml" value="0.332" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/drawable/custom_button_piano.xml" value="0.332" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_aprende_las_notas.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_aprende_las_notas2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_aprende_las_notas3.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_colaboradores.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_info_musical.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_main2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_menu_principal.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel3.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel31.xml" value="0.35104166666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel32.xml" value="0.35104166666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel33.xml" value="0.35104166666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel34.xml" value="0.35104166666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel35.xml" value="0.35104166666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel36.xml" value="0.35104166666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel37.xml" value="0.35104166666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel38.xml" value="0.35104166666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel39.xml" value="0.35104166666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel4.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel5.xml" value="0.35260416666666666" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel6.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel_aactivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel_bactivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel_cactivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel_dactivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel_eactivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel_factivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel_quinto.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_nivel_xactivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/activity_piano.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/dialog_design_colaboradores.xml" value="0.35260416666666666" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/dialog_design_correcto.xml" value="0.35260416666666666" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/dialog_design_ganaste.xml" value="0.35104166666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/dialog_design_incorrecto.xml" value="0.35260416666666666" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/dialog_video.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/layout/dialog_video_bienvenida.xml" value="0.36666666666666664" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3525" />
+        <entry key="..\:/Respaldo PC anterior/Documents/AndroidStudioProjects/PrototipoLSM/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.195" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
