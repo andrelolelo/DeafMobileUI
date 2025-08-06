@@ -19,3 +19,7 @@ The app was redesigned following the **[DeafMobileUI](https://github.com/andrelo
 
 You can find details of the guide on our [wiki](https://github.com/andrelolelo/DeafMobileUI/wiki).
 
+You may cite the original document as: 
+> **APA Citation:**
+>  
+> Fuentes-Cortázar, A. E., & Rojano-Cácers, J. R. (2025). *A design guide for mobile interfaces centered on Deaf users: A resource for developers*. preprint. 
