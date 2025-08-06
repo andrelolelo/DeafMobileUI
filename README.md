@@ -1,4 +1,4 @@
-# *DeafMobileUI* A design guide for mobile interfaces centered on Deaf users: A resource for developers
+# *DeafMobileUI* -> A design guide for mobile interfaces centered on Deaf users: A resource for developers
 
 This repository contains the public code for the *Vibro Notas* app, which is currently published on [Google Play](https://bit.ly/vibronotas).
 
