@@ -19,6 +19,8 @@ The app was redesigned following the **[DeafMobileUI](https://github.com/andrelo
 
 You can find details of the guide on our [wiki](https://github.com/andrelolelo/DeafMobileUI/wiki).
 
+Because this design guide involved the participation of Deaf users, the informed consent form used in this study is presented below. (https://drive.google.com/file/d/1FoVk_5uSiO2tg1qhGUJRR23NgYmaYmeC/view?usp=sharing)
+
 You may cite the original document as: 
 > **APA Citation:**
 >  
